@@ -7,7 +7,7 @@ The data is provided in two seperate **.csv** format files.
 **1. City_data.csv** - It contains details on Citi name, no of drivers in that city and city type.
 
 ---
-<img src = ".\Resources\City_data_df.png"></img>
+<img src = ".\Resources\city_data_df.png"></img>
 ---
 
 **2. Ride_data.csv** - It consists of city name, the date of ride, fare amount in USD and a unique ride id.
